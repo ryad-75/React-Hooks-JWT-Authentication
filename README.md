@@ -13,7 +13,7 @@ puis j’ai ajouté la 2éme partie backend « Node-js-JWT-Authentication-MySql
 Ainsi le partie front.end avec 
 ### `npm start`
 
-![alt tag](https://github.com/ryad-75/React-Hooks-JWT-Authentication-Redux/issues/1#issue-726523296) 
+![alt text](https://github.com/ryad-75/React-Hooks-JWT-Authentication-Redux/issues/1#issue-726523296) 
 
 
 Runs the app in the development mode.<br />
