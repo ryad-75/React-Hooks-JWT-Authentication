@@ -6,9 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm install`
 
-In the project directory, you can run:
-
+### Réalisation
+Réalisation du projet « React-Hooks-JWT-Authentication » parti front end au début
+puis j’ai ajouté la 2éme partie backend « Node-js-JWT-Authentication-MySql »  pour que le projet  soit complet. Alors il faut changer le mot de passe dans back/app/config/db.config.js puis lancer le back avec 
+### node server.js. 
+Ainsi le partie front.end avec 
 ### `npm start`
+
+![alt tag](https://github.com/ryad-75/React-Hooks-JWT-Authentication-Redux/issues/1#issue-726523296) 
+
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
