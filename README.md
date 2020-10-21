@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-####  exemple d'authentification JWT React Hooks avec LocalStorage, React Router, Axios
+###  Exemple d'authentification JWT React Hooks avec LocalStorage, React Router, Axios
 
 ## Available Scripts
+
+### `npm install`
 
 In the project directory, you can run:
 
